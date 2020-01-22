@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: 048ddc1ca15b7be47b6a00dbbd5cc584
+timeCreated: 1538568259
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Apartment
+    100002: bed_lamp
+    100004: bed_low
+    100006: carpet
+    100008: carpet2
+    100010: chair
+    100012: CINEMA_4D_Editor
+    100014: coffe_table
+    100016: decor
+    100018: decor_MeshPart0
+    100020: decor_MeshPart1
+    100022: Doors
+    100024: doors
+    100026: floor_lamp
+    100028: //RootNode
+    100030: gaarden_table
+    100032: Inside_Floors
+    100034: kitchen001
+    100036: Outside_City
+    100038: outside_Floors_1
+    100040: Roof
+    100042: Sacada
+    100044: Scene
+    100046: sofa_low
+    100048: Table_chair001
+    100050: tv_set
+    100052: Wall_inside
+    100054: Wall_inside_2
+    100056: Wall_N
+    100058: Wall_Shell
+    400000: Apartment
+    400002: bed_lamp
+    400004: bed_low
+    400006: carpet
+    400008: carpet2
+    400010: chair
+    400012: CINEMA_4D_Editor
+    400014: coffe_table
+    400016: decor
+    400018: decor_MeshPart0
+    400020: decor_MeshPart1
+    400022: Doors
+    400024: doors
+    400026: floor_lamp
+    400028: //RootNode
+    400030: gaarden_table
+    400032: Inside_Floors
+    400034: kitchen001
+    400036: Outside_City
+    400038: outside_Floors_1
+    400040: Roof
+    400042: Sacada
+    400044: Scene
+    400046: sofa_low
+    400048: Table_chair001
+    400050: tv_set
+    400052: Wall_inside
+    400054: Wall_inside_2
+    400056: Wall_N
+    400058: Wall_Shell
+    2300000: bed_lamp
+    2300002: bed_low
+    2300004: carpet
+    2300006: carpet2
+    2300008: chair
+    2300010: coffe_table
+    2300012: decor_MeshPart0
+    2300014: decor_MeshPart1
+    2300016: Doors
+    2300018: floor_lamp
+    2300020: gaarden_table
+    2300022: Inside_Floors
+    2300024: kitchen001
+    2300026: Outside_City
+    2300028: outside_Floors_1
+    2300030: Roof
+    2300032: Sacada
+    2300034: sofa_low
+    2300036: Table_chair001
+    2300038: tv_set
+    2300040: Wall_inside
+    2300042: Wall_inside_2
+    2300044: Wall_N
+    2300046: Wall_Shell
+    3300000: bed_lamp
+    3300002: bed_low
+    3300004: carpet
+    3300006: carpet2
+    3300008: chair
+    3300010: coffe_table
+    3300012: decor_MeshPart0
+    3300014: decor_MeshPart1
+    3300016: Doors
+    3300018: floor_lamp
+    3300020: gaarden_table
+    3300022: Inside_Floors
+    3300024: kitchen001
+    3300026: Outside_City
+    3300028: outside_Floors_1
+    3300030: Roof
+    3300032: Sacada
+    3300034: sofa_low
+    3300036: Table_chair001
+    3300038: tv_set
+    3300040: Wall_inside
+    3300042: Wall_inside_2
+    3300044: Wall_N
+    3300046: Wall_Shell
+    4300000: Outside_City
+    4300002: Roof
+    4300004: Wall_inside
+    4300006: Wall_Shell
+    4300008: outside_Floors_1
+    4300010: Inside_Floors
+    4300012: bed_lamp
+    4300014: carpet2
+    4300016: Sacada
+    4300018: chair
+    4300020: tv_set
+    4300022: decor_MeshPart0
+    4300024: decor_MeshPart1
+    4300026: floor_lamp
+    4300028: coffe_table
+    4300030: gaarden_table
+    4300032: Doors
+    4300034: sofa_low
+    4300036: Wall_N
+    4300038: Wall_inside_2
+    4300040: bed_low
+    4300042: carpet
+    4300044: kitchen001
+    4300046: Table_chair001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
